@@ -1,0 +1,71 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	font-family:Verdana;
+	font-size:12px;
+}
+
+.center
+{
+	margin:auto;
+}
+
+.clear
+{
+	clear:both;
+}
+
+#top
+{
+	width:1000px;
+	height:200px;
+	background-color:#348378;
+}
+
+#pageframe
+{
+	width:1000px;
+	background-color:#efefef;
+}
+
+#left
+{
+	width:170px;
+	float:left;
+}
+
+#content
+{
+	width:620px;
+	padding:20px;
+	float:left;
+}
+
+#right
+{
+	width:170px;
+	float:left;
+}
+
+#foot
+{
+	width:1000px;
+	height:30px;
+	line-height:30px;
+	border-top:1px solid #ccc;
+}
+
+#foot a
+{
+	text-decoration:none;
+	color:#555;
+}
+
+#foot a:hover
+{
+	text-decoration:underline;
+	color:#000;
+}
+
+
