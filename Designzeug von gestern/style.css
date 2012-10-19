@@ -38,19 +38,15 @@ body
 
 #random
 {
-	height:100px;
-	margin-bottom:30px;
-	background-image:url(../graphics/speaker_right.png);
-	border-top: 15px solid  #F1EBA6;
-	background-repeat:no-repeat;
-	background-position: left center;
 	background-color: #FFFFB0;
-	-moz-box-shadow:0 0 5px 5px #aaa;
-	-webkit-box-shadow:0 0 5px 5px #aaa;
-	box-shadow:0 0 3px 3px #aaa;
-	border-radius:5px;
-	-moz-border-radius:5px;
-	-webkit-border-radius:5px;
+    background-image: url("../graphics/speaker_right.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    border-radius: 0 0 10px 0;
+    border-top: 10px solid #F1EBA6;
+    box-shadow: 1px 1px 4px 2px 
+    height: 100px;
+    margin-bottom: 30px;
 }
 
 nav#left
