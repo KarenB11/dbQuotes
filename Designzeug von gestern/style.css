@@ -40,10 +40,11 @@ body
 {
 	height:100px;
 	margin-bottom:30px;
-	background-image:url(../graphics/speaker_left.png);
+	background-image:url(../graphics/speaker_right.png);
+	border-top: 15px solid 
 	background-repeat:no-repeat;
-	background-position: left center;
-	background-color: #FFFFDD;
+	background-position: left center #F1DB96;
+	background-color: #FFFFB0;
 }
 
 nav#left
