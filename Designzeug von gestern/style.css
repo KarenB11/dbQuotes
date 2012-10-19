@@ -39,12 +39,9 @@ body
 #random
 {
 	background-color: #FFFFB0;
-    background-image: url("../graphics/speaker_right.png");
-    background-position: left center;
-    background-repeat: no-repeat;
     border-radius: 0 0 10px 0;
     border-top: 10px solid #F1EBA6;
-    box-shadow: 1px 1px 4px 2px 
+    box-shadow: 1px 1px 4px 2px ;
     height: 100px;
     margin-bottom: 30px;
 }
