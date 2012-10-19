@@ -41,9 +41,9 @@ body
 	height:100px;
 	margin-bottom:30px;
 	background-image:url(../graphics/speaker_right.png);
-	border-top: 15px solid 
+	border-top: 15px solid  #F1DB96;
 	background-repeat:no-repeat;
-	background: left center #F1DB96;
+	background-postion: left center;
 	background-color: #FFFFB0;
 }
 
