@@ -43,7 +43,7 @@ body
 	background-image:url(../graphics/speaker_right.png);
 	border-top: 15px solid 
 	background-repeat:no-repeat;
-	background-position: left center #F1DB96;
+	background: left center #F1DB96;
 	background-color: #FFFFB0;
 }
 
